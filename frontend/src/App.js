@@ -8,7 +8,6 @@ function App() {
   return (
     <Router>
       <div className={styles.App}>
-        <Navbar />
         <Nav />
 
         {/* <h1>hello</h1>
